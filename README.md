@@ -21,13 +21,13 @@
 <p align="left">
   <a href="mailto:mlokeshkumara301@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="40"/>
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;
   <a href="tel:+918778434941">
     <img src="https://img.icons8.com/color/48/000000/phone.png" width="40"/>
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/m-lokeshkumar">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/>
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/lokeshh301">
     <img src="https://img.icons8.com/glyph-neue/48/ffffff/github.png" width="40"/>
   </a>
