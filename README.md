@@ -65,7 +65,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40"/> &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> &nbsp;&nbsp;&nbsp;
- <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/github/github-white.svg" alt="GitHub" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/glyph-neue/48/ffffff/github.png" width="40"/> &nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
 </p>
