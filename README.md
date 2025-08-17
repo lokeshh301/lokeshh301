@@ -2,7 +2,7 @@ Hi there 👋, I'm Lokeshkumar M,
 
 🚀 Java Developer  
 
-![coding](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)  
+![coding](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fwebsite-coding&psig=AOvVaw1sOPprnuiS-n510BdG4YLZ&ust=1755517160789000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLDh8_zgkY8DFQAAAAAdAAAAABAE)  
 
 - 📡 Here's my [portfolio](https://your-portfolio-link.com)  
 - 🌱 I’m currently learning **Web Development**  
