@@ -2,7 +2,12 @@
 <h3 align="center">Passionate about Java, Web Development, and Problem Solving</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img
+    alt="Coding"
+    width="300"
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    style="filter: hue-rotate(165deg) saturate(420%) brightness(95%) contrast(95%);"
+  />
 </p>
 
 - 🌱 Currently leveling up my skills in **Data Structures & Algorithms (DSA)**,  
