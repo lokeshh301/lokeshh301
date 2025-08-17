@@ -82,10 +82,6 @@
 - [E-Commerce Site](https://github.com/lokeshh301/E-Commerce_site)  
 - [REST API](https://github.com/lokeshh301/SpringBoot_API)  
 
-<p align="center">
-  [![Lokesh’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lokeshh301&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</p>
-
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -94,8 +90,14 @@
 </p>
 
 <p align="center">
- ![Profile Views](https://komarev.com/ghpvc/?username=lokeshh301&label=Profile%20Views&color=blue&style=for-the-badge)
+  
+  [![Lokesh’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lokeshh301&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=lokeshh301&label=Profile%20Views&color=blue&style=for-the-badge)
+
 </p>
+
+
 
 ## ✨ Quote I Live By  
 <p align="center">
