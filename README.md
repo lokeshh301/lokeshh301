@@ -5,9 +5,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
-- 📡 You can view my [Portfolio](https://lokeshh301.github.io/Portfolio/)
-- 🌱 I’m currently learning **DSA**  
-- 🤝 I’m looking to collaborate on **Java projects**
+- 🌱 Currently leveling up my skills in **Data Structures & Algorithms (DSA)**,  
+- ⚡ Exploring **Java, Spring Boot, MySQL, and Frontend (HTML, CSS, JavaScript, Bootstrap)**,  
+- 🤝 Open to collaborating on **Java-based projects, Web Development, and Problem-Solving challenges** 🚀  
+
 
 
 ## 📬 Connect with Me  
@@ -36,37 +37,38 @@
 
 <p>
   <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 </p>
 
 ## 🚀 Frameworks  
 
 <p>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" width="40"/> &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
 </p>
 
 
-## 🛠️ IDE & Tools I Use  
+## 🔧 Tools and IDEs I Handle  
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-
 </p>
+
+
 ## 📚 Top Languages  
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshh301&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
@@ -75,6 +77,9 @@
 - [E-Commerce Site](https://github.com/lokeshh301/E-Commerce_site)  
 - [REST API](https://github.com/lokeshh301/SpringBoot_API)  
 
+<p align="center">
+  [![Lokesh’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lokeshh301&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</p>
 
 ## 📊 GitHub Stats  
 
@@ -83,6 +88,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshh301&theme=radical" alt="GitHub Streak" height="180"/>
 </p>
 
+<p align="center">
+ ![Profile Views](https://komarev.com/ghpvc/?username=lokeshh301&label=Profile%20Views&color=blue&style=for-the-badge)
+</p>
+
+## ✨ Quote I Live By  
+<p align="center">
+ _"Code is like humor. When you have to explain it, it’s bad."_  
+</p>
 
 ---
 ⭐️ From [Lokeshkumar M](https://github.com/lokeshh301)
