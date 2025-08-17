@@ -2,35 +2,47 @@ Hi there 👋, I'm Lokeshkumar M,
 
 🚀 Java Developer  
 
-![coding](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fwebsite-coding&psig=AOvVaw1sOPprnuiS-n510BdG4YLZ&ust=1755517160789000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLDh8_zgkY8DFQAAAAAdAAAAABAE)  
+- 📡 Here's my [portfolio] (https://lokeshh301.github.io/Portfolio/)
+- 🌱 I’m currently learning **DSA**  
+- 🤝 I’m looking to collaborate on **Java projects**   
+- 📬 Ways to reach me:  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-lokeshkumar)  
+  [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:mlokeshkumara301@gmail.com)  
 
-- 📡 Here's my [portfolio](https://your-portfolio-link.com)  
-- 🌱 I’m currently learning **Web Development**  
-- 🤝 I’m looking to collaborate on **Java projects**  
-- 🤔 I’m looking for help with **Placements in FAANG**  
-- 📬 How to reach me:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-  [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)  
-
-- 😁 Pronouns: Tech/Tinker  
-- ⚡ Fun fact: I code in Java because it’s derived from *Java coffee ☕*  
+- ⚡ Fun fact: I started to learn coding because coding likes me!!! Nothing else 😁
 
 ---
 
-## 💻 I Code In  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>  
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>  
+## 💻 Languages
 
----
+<p>
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+</p>
+
+## 🚀 Frameworks  
+
+<p>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
+</p>
+
 
 ## 🛠️ IDE & Tools I Use  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>  
-<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" width="40"/>  
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+</p>
+
 
 ---
-⭐️ From [YourName](https://github.com/YourUsername)
+⭐️ From [YourName](https://github.com/lokeshh301)
