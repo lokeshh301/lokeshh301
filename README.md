@@ -78,8 +78,8 @@
 </p>
 
 ## 🚀 Featured Projects  
-- [Job Portal Admin](https://github.com/lokeshh301/Job_Portal_Admin)  
-- [E-Commerce Site](https://github.com/lokeshh301/E-Commerce_site)  
+- [Online Food_Delivery_Web_Application](https://github.com/lokeshh301/Food_Delivery_Web_Application.git)  
+- [Employee Database Management - Springboot](https://github.com/lokeshh301/employee-management-springboot.git)  
 - [REST API](https://github.com/lokeshh301/SpringBoot_API)  
 
 ## 📊 GitHub Stats  
