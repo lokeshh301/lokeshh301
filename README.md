@@ -98,11 +98,5 @@
 </p>
 
 
-
-## ✨ Quote I Live By  
-<p align="center">
- _"Code is like humor. When you have to explain it, it’s bad."_  
-</p>
-
 ---
 ⭐️ From [Lokeshkumar M](https://github.com/lokeshh301)
